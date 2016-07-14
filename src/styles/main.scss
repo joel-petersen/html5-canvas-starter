@@ -10,3 +10,7 @@ body {
   background-color: $color;
   color: white;
 }
+
+#cnv {
+  background: lighten($color, 15);
+}
