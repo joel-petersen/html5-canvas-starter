@@ -1,0 +1,12 @@
+//compileExpanded: ../../public/css/$1.css
+$color: dodgerblue;
+
+body, html {
+  height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: $color;
+  color: white;
+}

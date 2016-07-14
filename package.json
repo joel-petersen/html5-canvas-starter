@@ -1,0 +1,28 @@
+{
+  "name": "html5-canvas-starter",
+  "version": "0.0.1",
+  "description": "HTML Canvas project starter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillyDesignr/html5-canvas-starter.git"
+  },
+  "keywords": [
+    "html5",
+    "html",
+    "canvas",
+    "javascript"
+  ],
+  "author": "Jeremy Zevin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phillyDesignr/html5-canvas-starter/issues"
+  },
+  "homepage": "https://github.com/phillyDesignr/html5-canvas-starter#readme",
+  "devDependencies": {
+    "httpdispatcher": "^1.0.0"
+  }
+}
