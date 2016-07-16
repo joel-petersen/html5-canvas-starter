@@ -20,7 +20,7 @@ class App {
         window.requestAnimationFrame(t=>this.draw(t));
         this.ctx.save();
         this.ctx.fillStyle = `hsla(0,0%,100%,${Math.random()})`;
-        for (let i = 0; i < 200; i++) {
+        for (let i = 0; i < 50; i++) {
             this.ctx.fillRect(Math.random()*this.canvas.width, Math.random()*this.canvas.height, Math.random()*30, Math.random()*30);
             this.ctx.clearRect(Math.random()*this.canvas.width, Math.random()*this.canvas.height, Math.random()*10, Math.random()*10);
         }
